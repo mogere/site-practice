@@ -1,0 +1,41 @@
+.header{
+    width: 100vw;
+    height: 70px;
+    border: none;
+    background-color:rgb(46, 44, 44);
+    margin: 0 auto;
+    padding: 0;
+    text-emphasis-color: black;
+
+}
+.logo{
+    padding-top: 15px;
+}
+.upper_header{
+    width: 100vw;
+    height: 50px;
+    background-color: honeydew;
+}
+label{
+    float: left;
+    padding: 15px;
+}
+/* .drop-down{ 
+  
+   
+} */
+select{
+    margin: 15px;
+    float: left;;
+}
+a{
+    color: khaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+}
+.content_holder{
+    
+    column-gap: 5px;
+}
