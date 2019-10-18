@@ -6,7 +6,6 @@
     margin: 0 auto;
     padding: 0;
     text-emphasis-color: black;
-
 }
 .logo{
     padding-top: 15px;
@@ -20,14 +19,7 @@ label{
     float: left;
     padding: 15px;
 }
-/* .drop-down{ 
-  
-   
-} */
-select{
-    margin: 15px;
-    float: left;;
-}
+
 a{
     color: khaki;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -35,7 +27,26 @@ a{
     padding: 20px;
     text-align: center;
 }
-.content_holder{
-    
-    column-gap: 5px;
+.image{
+    size: 600px;
 }
+
+.grid-container{
+    content: "";
+    display: table;
+    clear: both;
+    margin-left: 14%;
+}
+.grid-item{
+    float: left;
+    padding: 10px;
+    height: ;
+}
+body{
+    margin: 0;
+}
+/* .content_holder{
+    display: table;
+    clear: both;
+    margin-left: 14%;
+} */
